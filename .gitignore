@@ -1,3 +1,4 @@
 .project
 asn1/*
 doc/asn1js
+.DS_Store
