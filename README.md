@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/lor00x/goldap.svg)](https://travis-ci.org/lor00x/goldap)
 [![Coverage Status](https://coveralls.io/repos/lor00x/goldap/badge.png?branch=master)](https://coveralls.io/r/lor00x/goldap?branch=master)
 
+Forked from https://github.com/vjeantet/goldap to make it work with Go modules
+
 # LDAP library in Golang
 
 This library performs decoding and encoding of LDAP message.
